@@ -37,7 +37,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham70&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham70&hide_progress=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham70)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham70&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📌Connect With Me:
